@@ -14,12 +14,12 @@
 
 
     <properties>
-        <rocketmq-aliyun-spring-boot-starter-version>1.0-SNAPSHOT</rocketmq-aliyun-spring-boot-starter-version>
+        <rocketmq-aliyun-spring-boot-starter-version>1.0.0</rocketmq-aliyun-spring-boot-starter-version>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>com.laidian</groupId>
+            <groupId>com.zhang</groupId>
             <artifactId>rocketmq-aliyun-spring-boot-starter</artifactId>
             <version>${rocketmq-aliyun-spring-boot-starter-version}</version>
         </dependency>

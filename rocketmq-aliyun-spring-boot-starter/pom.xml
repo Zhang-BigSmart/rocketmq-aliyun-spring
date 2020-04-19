@@ -20,7 +20,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.laidian</groupId>
+            <groupId>com.zhang</groupId>
             <artifactId>rocketmq-aliyun-spring-boot</artifactId>
         </dependency>
         <dependency>

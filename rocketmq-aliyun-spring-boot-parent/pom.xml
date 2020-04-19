@@ -23,7 +23,7 @@
         <spring.boot.version>2.0.5.RELEASE</spring.boot.version>
         <spring.version>5.1.0.RELEASE</spring.version>
 
-        <rocketmq.aliyun.spring.boot.version>1.0-SNAPSHOT</rocketmq.aliyun.spring.boot.version>
+        <rocketmq.aliyun.spring.boot.version>1.0.0</rocketmq.aliyun.spring.boot.version>
 
         <ons-client.version>1.8.4.Final</ons-client.version>
         <rocketmq-version>4.6.0</rocketmq-version>
@@ -89,7 +89,7 @@
             </dependency>
 
             <dependency>
-                <groupId>com.laidian</groupId>
+                <groupId>com.zhang</groupId>
                 <artifactId>rocketmq-aliyun-spring-boot</artifactId>
                 <version>${rocketmq.aliyun.spring.boot.version}</version>
             </dependency>

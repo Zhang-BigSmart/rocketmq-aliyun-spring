@@ -1,0 +1,13 @@
+rocketmq:
+  ali:
+    name-server: your_nameServer
+
+
+demo:
+  consumer:
+    test:
+      accessKey: your_accessKey
+      secretKey: your_secretKey
+      groupId: GID_TEST
+      topic: test
+      tag: '*'

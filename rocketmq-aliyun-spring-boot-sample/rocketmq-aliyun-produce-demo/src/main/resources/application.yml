@@ -1,0 +1,7 @@
+rocketmq:
+  ali:
+    name-server: your_nameServer
+    producer:
+      access-key: your_accessKey
+      secret-key: your_secretKey
+      order-enable: true

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zhang</groupId>
+    <artifactId>rocketmq-aliyun-spring-boot-sample</artifactId>
+    <version>1.0.0</version>
+
+    <name>RocketMQ Aliyun Spring Boot Samples</name>
+    <description>Samples for RocketMQ Aliyun Spring Boot</description>
+    <url>https://github.com/apache/rocketmq-spring</url>
+
+
+    <properties>
+        <rocketmq-aliyun-spring-boot-starter-version>1.0-SNAPSHOT</rocketmq-aliyun-spring-boot-starter-version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.laidian</groupId>
+            <artifactId>rocketmq-aliyun-spring-boot-starter</artifactId>
+            <version>${rocketmq-aliyun-spring-boot-starter-version}</version>
+        </dependency>
+    </dependencies>
+</project>
